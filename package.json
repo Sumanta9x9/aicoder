@@ -1,0 +1,16 @@
+{
+  "name": "claudesubplan",
+  "version": "1.5.1",
+  "description": "Claude Code Setup",
+  "main": "index.js",
+  "bin": {
+    "brocodelive": "./index.js"
+  },
+  "keywords": [
+    
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
